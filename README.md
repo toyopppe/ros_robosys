@@ -8,3 +8,5 @@ $ roscore
 $ rosrun mypkg main.py
 $ rosrun mypkg player.py
 を実行．
+# 動画URL
+https://youtu.be/558CPWtG2yA
